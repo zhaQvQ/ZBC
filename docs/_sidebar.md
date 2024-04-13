@@ -1,0 +1,11 @@
+- ZBC服务器相关
+    - [新人必看](ServerRules/rules.md)
+- 我的世界教程
+    - 安装
+        - [安卓](Minecraft_tutorials/Installation/android)
+        - [iOS](Minecraft_tutorials/Installation/ios)
+        - [Windows](Minecraft_tutorials/Installation/win)
+    - 服务器
+        - [添加和进入服务器](Minecraft_tutorials/Server/connecttoserver)
+        - [无法进入服务器](Minecraft_tutorials/Server/cannotconnect)
+        - [Windows版最小化时不退出服务器](https://github.com/jqms/MinimiseFix)
